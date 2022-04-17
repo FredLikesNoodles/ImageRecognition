@@ -1,0 +1,14 @@
+#web_camera,
+#camera_output {
+  width: 300px;
+  height: 300px;
+  border: 1px groove black;
+  box-shadow: 2px 2px 10px lightblue;
+  resize: both;
+}
+body {
+  background-image: url("https://i.redd.it/vdhgv54ndnj21.png");
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
